@@ -1,5 +1,6 @@
 <b><color=#FAFA00>ProjectDrevesina <color="red">r5</color>:</color></b>
 <color="green">+</color> Added selection of building block.
+<color="green">+</color> Added third block to the build block selection menu.
 <color="green">+</color> Added debug save/load.
 <color="green">+</color> Added F3 Command to save terrain.
 <color="green">+</color> Added F3 Command to load terrain.
