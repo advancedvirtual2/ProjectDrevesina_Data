@@ -1,3 +1,14 @@
+<b><color=#FAFA00>ProjectDrevesina <color="red">r5</color>:</color></b>
+<color="green">+</color> Added selection of building block.
+<color="green">+</color> Added debug save/load.
+<color="green">+</color> Added F3 Command to save terrain.
+<color="green">+</color> Added F3 Command to load terrain.
+<color="green">+</color> Added terrain sync to the new connecting player, instead of giving default.
+<color="yellow">•</color> Fixed terrain sync ignores block remove from r4.
+<color="yellow">•</color> Fixed usernames from r3/r4.
+------
+<b><color=#FAFA00>ProjectDrevesina <color="red">r4</color>:</color></b>
+------
 <b><color=#FAFA00>ProjectDrevesina <color="red">r3</color>:</color></b>
 <color="green">+</color> Added building with the test block.
 <color="green">+</color> Added removing blocks.
